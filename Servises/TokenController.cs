@@ -3,7 +3,7 @@
 namespace BlazorApp1.Services
 {
 
-    [Route("api/token")]
+    [Route("api/[controller]")]
     [ApiController]
     
     public class TokenController : ControllerBase

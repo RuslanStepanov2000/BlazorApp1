@@ -52,5 +52,5 @@ namespace BlazorApp1.Data
                 Summary = Summaries[rng.Next(Summaries.Length)]
             });
         }
-    }
+     }
 }
